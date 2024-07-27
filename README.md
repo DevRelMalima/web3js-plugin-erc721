@@ -1,1 +1,1 @@
-# web3js-plugin-ers721
+# web3js-plugin-erc721
