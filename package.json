@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "web3": "^4.11.1"
+  },
+  "devDependencies": {
+    "@chainsafe/eslint-config": "^2.2.4",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.14.12",
+    "eslint": "^9.8.0",
+    "jest": "^29.7.0",
+    "jest-extended": "^4.0.2",
+    "ts-jest": "^29.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  },
+  "name": "web3js-plugin-erc721",
+  "version": "1.0.0",
+  "description": "This plugin is meant for developers interacting with ERC-721 NFTs",
+  "main": "index.js",
+  "repository": "https://github.com/DevRelMalima/web3js-plugin-erc721.git",
+  "author": "Samaila Anthony Malima <samuelmalima09@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
